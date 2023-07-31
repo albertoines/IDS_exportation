@@ -1,0 +1,5 @@
+# filehash MISP Zeek Rules ----> 2023-07-31
+6b398b459b6906e7fbd0cc3eda7d04ffcd1fd36bc4019389b982250832bc6ff2	Intel::FILE_HASH	ORGNAME MISP (93a60f15-6c76-41d5-bb64-01e5008fc82d) - abuse.ch	ThreatFox IOCs for 2023-07-30. IRATA payload (confidence level: 100%)	http://192.168.153.4/events/view/2985	T	-
+10c7ee13095596db99cbb124e5d2740d	Intel::FILE_HASH	ORGNAME MISP (93a60f15-6c76-41d5-bb64-01e5008fc82d) - abuse.ch	ThreatFox IOCs for 2023-07-30. IRATA payload (confidence level: 100%)	http://192.168.153.4/events/view/2985	T	-
+0932738ed4bbf0a5ed48919087a0b5d5	Intel::FILE_HASH	ORGNAME MISP (93a60f15-6c76-41d5-bb64-01e5008fc82d) - abuse.ch	ThreatFox IOCs for 2023-07-30. IRATA payload (confidence level: 100%)	http://192.168.153.4/events/view/2985	T	-
+b7ff30b39826db33a85fc677819a958cc9307ce2c54dde77c3e1239f39e6ec36	Intel::FILE_HASH	ORGNAME MISP (93a60f15-6c76-41d5-bb64-01e5008fc82d) - abuse.ch	ThreatFox IOCs for 2023-07-30. IRATA payload (confidence level: 100%)	http://192.168.153.4/events/view/2985	T	-
