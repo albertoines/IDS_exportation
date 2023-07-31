@@ -6,7 +6,6 @@ token_acceso_personal="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"
 repositorio="https://${usuario_github}:${token_acceso_personal}@github.com/${usuario_github}/IDS_exportation.git"
 DATE=`date +"%d/%m/%Y"`
 
-cd /root/IDS_exportation/
 
 # Agrega los cambios a Git
 git add .
