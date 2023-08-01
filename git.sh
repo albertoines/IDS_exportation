@@ -13,6 +13,10 @@ git add .
 # Realiza un commit con un mensaje
 git commit -m "Rules update: $DATE"
 
+# Autenticación usando el token de acceso personal
+git remote remove origin
+git remote add origin "$repositorio"
+
 # Sube los cambios al repositorio remoto
 git push origin main
 
