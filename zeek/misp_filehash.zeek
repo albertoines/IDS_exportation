@@ -1018,5 +1018,3 @@ ff6ac51e09057d74a5e34c31ac44ae77e1445862c964e7f3a1725a975fc6c081	Intel::FILE_HAS
 ff53f06d5f0c88274887c5f2f1e7d4bf	Intel::FILE_HASH	ORGNAME MISP (496c6b99-3872-452c-a6fc-11ebf9592621) - DIGITALSIDE.IT	DigitalSide Malware report: MD5: f8e6425f51d262f94758c86fe2b936bf. 	http://192.168.153.4/events/view/3022	T	-
 ffb9055719e4e9946c07f5e3fca2de91	Intel::FILE_HASH	ORGNAME MISP (77e394b2-4132-44ee-95c2-c566e30d7d68) - DIGITALSIDE.IT	DigitalSide Malware report: MD5: d25a9e160e3b74ef2242023726f15416. 	http://192.168.153.4/events/view/3024	T	-
 ffd34b15bd7a8300794a9372dfe37bf1	Intel::FILE_HASH	ORGNAME MISP (d2e5f3c0-278a-4ebd-9d29-7ca0fda550c8) - DIGITALSIDE.IT	DigitalSide Malware report: MD5: ffd34b15bd7a8300794a9372dfe37bf1. 	http://192.168.153.4/events/view/3069	T	-
-# filehash MISP Zeek Rules ----> 2023-08-02
-c87fa6eac8df3c5824f0195c8268587a8f1153e68adf84b41811efba07f37401	Intel::FILE_HASH	ORGNAME MISP (cdb187d2-ef6b-422d-b4c1-54eaecb445bd) - abuse.ch	ThreatFox IOCs for 2023-08-01. SectopRAT payload (confidence level: 50%)	http://192.168.153.4/events/view/3073	T	-
