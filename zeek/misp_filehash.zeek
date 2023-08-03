@@ -1021,3 +1021,6 @@ ffd34b15bd7a8300794a9372dfe37bf1	Intel::FILE_HASH	ORGNAME MISP (d2e5f3c0-278a-4e
 
 # filehash MISP Zeek Rules ----> 2023-08-02
 c87fa6eac8df3c5824f0195c8268587a8f1153e68adf84b41811efba07f37401	Intel::FILE_HASH	ORGNAME MISP (cdb187d2-ef6b-422d-b4c1-54eaecb445bd) - abuse.ch	ThreatFox IOCs for 2023-08-01. SectopRAT payload (confidence level: 50%)	http://192.168.153.4/events/view/3073	T	-
+
+# filehash MISP Zeek Rules ----> 2023-08-03
+c87fa6eac8df3c5824f0195c8268587a8f1153e68adf84b41811efba07f37401	Intel::FILE_HASH	ORGNAME MISP (cdb187d2-ef6b-422d-b4c1-54eaecb445bd) - abuse.ch	ThreatFox IOCs for 2023-08-01. SectopRAT payload (confidence level: 50%)	http://192.168.153.4/events/view/3073	T	-
