@@ -4,3 +4,5 @@
 # filename MISP Zeek Rules ----> 2023-08-02
 
 # filename MISP Zeek Rules ----> 2023-08-03
+
+# filename MISP Zeek Rules ----> 2023-08-04

@@ -4,3 +4,5 @@
 # email MISP Zeek Rules ----> 2023-08-02
 
 # email MISP Zeek Rules ----> 2023-08-03
+
+# email MISP Zeek Rules ----> 2023-08-04
