@@ -83,3 +83,22 @@ twelve12vt.top	Intel::DOMAIN	ORGNAME MISP (b3e890c2-8774-4a84-8d71-212499b5872b)
 tytsoftikor.com	Intel::DOMAIN	ORGNAME MISP (b3e890c2-8774-4a84-8d71-212499b5872b) - abuse.ch	ThreatFox IOCs for 2023-08-05. IcedID botnet C2 domain (confidence level: 75%)	http://192.168.153.4/events/view/3080	T	-
 ultrafoks.com	Intel::DOMAIN	ORGNAME MISP (b3e890c2-8774-4a84-8d71-212499b5872b) - abuse.ch	ThreatFox IOCs for 2023-08-05. IcedID botnet C2 domain (confidence level: 75%)	http://192.168.153.4/events/view/3080	T	-
 update.officaesmicrasftonline.com	Intel::DOMAIN	ORGNAME MISP (b3e890c2-8774-4a84-8d71-212499b5872b) - abuse.ch	ThreatFox IOCs for 2023-08-05. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3080	T	-
+
+# domain MISP Zeek Rules ----> 2023-08-08
+1fullw.3utilities.com	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. Houdini botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+22-23asyn.servemp3.com	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. DCRat botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+cs45up230720.gamesmetaa.com	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+d2042y8vbs9p7p.cloudfront.net	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dfive5vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dispatchweekly.com	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. DeepRAT payload delivery domain (confidence level: 50%)	http://192.168.153.4/events/view/3081	T	-
+dleven11vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dnein9vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+done1vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dseit8vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dseven7vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dsix6vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dten10vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dthre3vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+dtwelve12vs.top	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. CryptBot botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+io.cy789.ml	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3081	T	-
+upadte-reviewer-online.live	Intel::DOMAIN	ORGNAME MISP (4d3161a6-eb75-481d-ab43-18dbc0f02da6) - abuse.ch	ThreatFox IOCs for 2023-08-06. Agent Tesla botnet C2 domain (confidence level: 50%)	http://192.168.153.4/events/view/3081	T	-
