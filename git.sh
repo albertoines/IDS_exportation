@@ -14,9 +14,6 @@ git add .
 # Realiza un commit con un mensaje
 git commit -m "Rules update: $DATE"
 
-git config --global credential.helper "store --file ~/.git-credentials"
-echo -e "protocol=https\nhost=github.com\nusername=$usuario_github\ntoken=$token_acceso_personal" > ~/.git-credentials
-
 # Sube los cambios al repositorio remoto
 git push origin main
 
