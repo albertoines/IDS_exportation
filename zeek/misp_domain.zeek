@@ -54,3 +54,15 @@ video01.dorila.top	Intel::DOMAIN	TFG Unizar MISP (e05956ee-e00a-4df6-b990-4ea2cc
 warwickyouth.com	Intel::DOMAIN	TFG Unizar MISP (e05956ee-e00a-4df6-b990-4ea2cca3ebe6) - abuse.ch	ThreatFox IOCs for 2023-08-09. SpyNote botnet C2 domain (confidence level: 50%)	http://192.168.153.4/events/view/3355	T	-
 www.upgrad3.cc	Intel::DOMAIN	TFG Unizar MISP (e05956ee-e00a-4df6-b990-4ea2cca3ebe6) - abuse.ch	ThreatFox IOCs for 2023-08-09. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3355	T	-
 
+# domain MISP Zeek Rules ----> 2023-08-12
+aqkm.timeline.transversallearning.com	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. FAKEUPDATES payload delivery domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+cnc.crow.ggm.pw	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. Mirai botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+cs-go.btpanel.asia	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+cs.dingjie.eu.org	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+discordcdn8839248.com	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. SystemBC botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+dmg.allwesoft.com	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. RedLine Stealer botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+image.baiduu.org	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. Cobalt Strike botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+podiumstrtss.com	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. IcedID botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+pokerstorstool.com	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. IcedID botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+smakizelkopp.com	Intel::DOMAIN	TFG Unizar MISP (28a551fe-b896-4b6d-81ea-ededbdc716cf) - abuse.ch	ThreatFox IOCs for 2023-08-10. IcedID botnet C2 domain (confidence level: 100%)	http://192.168.153.4/events/view/3358	T	-
+
