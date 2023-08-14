@@ -32,3 +32,12 @@ stripchat70.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-12 (event ID 3362)
 solopodvip-my.xyz	Intel::DOMAIN	ThreatFox IOCs for 2023-08-12 (event ID 3362)
 farulig.us	Intel::DOMAIN	ThreatFox IOCs for 2023-08-12 (event ID 3362)
 ys035.tv	Intel::DOMAIN	ThreatFox IOCs for 2023-08-12 (event ID 3362)
+#fields	indicator	indicator_type	meta.source
+# domain MISP Zeek Rules ----> 2023-08-15
+x64.nvize.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-13 (event ID 3364)
+macarenaluis.hopto.org	Intel::DOMAIN	ThreatFox IOCs for 2023-08-13 (event ID 3364)
+rosevalleylimousine.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-13 (event ID 3364)
+shchiswear.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-13 (event ID 3364)
+motorrungoli.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-13 (event ID 3364)
+minlas.top	Intel::DOMAIN	ThreatFox IOCs for 2023-08-13 (event ID 3364)
+stela-artua.xyz	Intel::DOMAIN	ThreatFox IOCs for 2023-08-13 (event ID 3364)

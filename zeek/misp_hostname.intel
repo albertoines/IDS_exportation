@@ -1,2 +1,4 @@
 #fields	indicator	indicator_type	meta.source
 # hostname MISP Zeek Rules ----> 2023-08-14
+#fields	indicator	indicator_type	meta.source
+# hostname MISP Zeek Rules ----> 2023-08-15
