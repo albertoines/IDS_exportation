@@ -189,7 +189,6 @@ http://112.252.214.74:57988/i	Intel::URL	URLhaus IOCs for 2023-08-12 (event ID 3
 http://117.216.22.50:36427/Mozi.m	Intel::URL	URLhaus IOCs for 2023-08-12 (event ID 3363)
 http://200.59.72.117:32788/i	Intel::URL	URLhaus IOCs for 2023-08-12 (event ID 3363)
 http://163.179.167.203:36539/Mozi.a	Intel::URL	URLhaus IOCs for 2023-08-12 (event ID 3363)
-#fields	indicator	indicator_type	meta.source
 # url MISP Zeek Rules ----> 2023-08-15
 https://x64.nvize.com/mhp2c0tyfwjuwew5bu9akujytclihbt6vh8ffhih	Intel::URL	ThreatFox IOCs for 2023-08-13 (event ID 3364)
 https://x64.nvize.com/4expf5rocn6fzlml1nlfnzkydgfd1kt2j40fbpujnngrzku1k85tnzags2o=	Intel::URL	ThreatFox IOCs for 2023-08-13 (event ID 3364)

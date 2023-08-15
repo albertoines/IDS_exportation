@@ -1003,7 +1003,6 @@ a4a7797af98fcd4674b1abe9d39c90866eb6974228f58101b9815d0650596a70	Intel::FILE_HAS
 1267a1427bffb3f777de03f2beba6ddab8d870975c2cb68b0ae9467ece017b0d	Intel::FILE_HASH	URLhaus IOCs for 2023-08-12 (event ID 3363)
 9010799489c2cca5c8d7c00595d0629c5419fbd3897daa5925a6a879a7c8cac7	Intel::FILE_HASH	URLhaus IOCs for 2023-08-12 (event ID 3363)
 94a9c3fb9449ded9e484f750c5dbb153aa64c8943dc08c4bf0df96ae6eb4447c	Intel::FILE_HASH	URLhaus IOCs for 2023-08-12 (event ID 3363)
-#fields	indicator	indicator_type	meta.source
 # sha256 MISP Zeek Rules ----> 2023-08-15
 24bfd89975f924b4ffa907725641b8c150d6ce20e19be63f61b2daff0efffce3	Intel::FILE_HASH	URLhaus IOCs for 2023-08-13 (event ID 3365)
 9aa25135e2a90caff7f0bd19f7360cea0583f7c1f73bf85556c3d4406f8b005c	Intel::FILE_HASH	URLhaus IOCs for 2023-08-13 (event ID 3365)
