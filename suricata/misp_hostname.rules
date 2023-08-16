@@ -2,3 +2,8 @@
 
 # hostname MISP Suricata Rules ----> 2023-08-15
 # hostname MISP Suricata Rules ----> 2023-08-16
+# hostname MISP Suricata Rules ----> 2023-08-17
+alert dns any any -> any any (msg: "MISP e3368 [] Hostname toyy.zulipchat.com"; dns.query; content:"toyy.zulipchat.com"; nocase; pcre: "/(^|[^A-Za-z0-9-\.])toyy\.zulipchat\.com$/i";  classtype:trojan-activity; sid:274237741; rev:1; priority:1; reference:url,http://192.168.153.4/events/view/3368;) 
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3368 [] Outgoing HTTP Hostname toyy.zulipchat.com"; flow:to_server,established; http.header; content: "Host|3a| toyy.zulipchat.com"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])toyy\.zulipchat\.com[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:274237742; rev:1; priority:1; reference:url,http://192.168.153.4/events/view/3368;) 
+alert dns any any -> any any (msg: "MISP e3368 [] Hostname sgrhf.org.pk"; dns.query; content:"sgrhf.org.pk"; nocase; pcre: "/(^|[^A-Za-z0-9-\.])sgrhf\.org\.pk$/i";  classtype:trojan-activity; sid:274237751; rev:1; priority:1; reference:url,http://192.168.153.4/events/view/3368;) 
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3368 [] Outgoing HTTP Hostname sgrhf.org.pk"; flow:to_server,established; http.header; content: "Host|3a| sgrhf.org.pk"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])sgrhf\.org\.pk[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:274237752; rev:1; priority:1; reference:url,http://192.168.153.4/events/view/3368;) 
