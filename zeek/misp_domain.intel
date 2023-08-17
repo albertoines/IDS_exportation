@@ -118,3 +118,13 @@ ntc-govpk.serveftp.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-15 (event ID 336
 ntc-govpk.servehttp.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-15 (event ID 3369)
 vpn-ptclnetpk.servehttp.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-15 (event ID 3369)
 samabasa.us	Intel::DOMAIN	ThreatFox IOCs for 2023-08-15 (event ID 3369)
+# domain MISP Zeek Rules ----> 2023-08-18
+ns1.chat666.live	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+ns2.chat666.live	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+testdcxtadmin.qianxinsecurity.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+testdcxtadmin1.qianxinsecurity.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+amos-malware.ru	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+goldmex.merseine.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+porsche2023.est-le-patron.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+bratzen.duckdns.org	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
+framedscenes.com	Intel::DOMAIN	ThreatFox IOCs for 2023-08-16 (event ID 3371)
