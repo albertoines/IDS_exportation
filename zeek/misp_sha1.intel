@@ -16,3 +16,5 @@ deadca9bd85ee5c4e086fd81eee09407b769e9b6	Intel::FILE_HASH	CISA - MAR-10459736.r1
 fd97abbc16fc30c09d7ea6b66ec359b9d9017b19	Intel::FILE_HASH	Pandora analysis (NEW ORDER LIST GREEN VALLEY CORP.xlam) (event ID 3388)
 # sha1 MISP Zeek Rules ----> 2023-08-27
 # sha1 MISP Zeek Rules ----> 2023-08-28
+# sha1 MISP Zeek Rules ----> 2023-08-29
+1b254621918e9f35783c870d045e6bc0ed66696a	Intel::FILE_HASH	Pandora analysis (INV0027378237.7z) - Malicious attachment (event ID 3395)

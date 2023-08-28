@@ -18,3 +18,6 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3368 [] Outgoing HTTP
 # hostname MISP Suricata Rules ----> 2023-08-26
 # hostname MISP Suricata Rules ----> 2023-08-27
 # hostname MISP Suricata Rules ----> 2023-08-28
+# hostname MISP Suricata Rules ----> 2023-08-29
+alert dns any any -> any any (msg: "MISP e3395 [] Hostname rex1010.duckdns.org"; dns.query; content:"rex1010.duckdns.org"; nocase; pcre: "/(^|[^A-Za-z0-9-\.])rex1010\.duckdns\.org$/i";  classtype:trojan-activity; sid:275343111; rev:1; priority:3; reference:url,http://192.168.153.4/events/view/3395;) 
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3395 [] Outgoing HTTP Hostname rex1010.duckdns.org"; flow:to_server,established; http.header; content: "Host|3a| rex1010.duckdns.org"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])rex1010\.duckdns\.org[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:275343112; rev:1; priority:3; reference:url,http://192.168.153.4/events/view/3395;) 
