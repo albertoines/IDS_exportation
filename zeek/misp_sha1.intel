@@ -18,3 +18,4 @@ fd97abbc16fc30c09d7ea6b66ec359b9d9017b19	Intel::FILE_HASH	Pandora analysis (NEW 
 # sha1 MISP Zeek Rules ----> 2023-08-28
 # sha1 MISP Zeek Rules ----> 2023-08-29
 1b254621918e9f35783c870d045e6bc0ed66696a	Intel::FILE_HASH	Pandora analysis (INV0027378237.7z) - Malicious attachment (event ID 3395)
+# sha1 MISP Zeek Rules ----> 2023-08-30
