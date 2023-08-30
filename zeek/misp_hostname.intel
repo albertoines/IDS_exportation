@@ -19,3 +19,6 @@ sgrhf.org.pk	Intel::DOMAIN	German Embassy Lure: Likely Part of Campaign Against 
 # hostname MISP Zeek Rules ----> 2023-08-29
 rex1010.duckdns.org	Intel::DOMAIN	Pandora analysis (INV0027378237.7z) - Malicious attachment (event ID 3395)
 # hostname MISP Zeek Rules ----> 2023-08-30
+# hostname MISP Zeek Rules ----> 2023-08-31
+xxl17z.dnslog.cn	Intel::DOMAIN	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+mx01.bestfindthetruth.com	Intel::DOMAIN	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)

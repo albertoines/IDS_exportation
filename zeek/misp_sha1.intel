@@ -19,3 +19,20 @@ fd97abbc16fc30c09d7ea6b66ec359b9d9017b19	Intel::FILE_HASH	Pandora analysis (NEW 
 # sha1 MISP Zeek Rules ----> 2023-08-29
 1b254621918e9f35783c870d045e6bc0ed66696a	Intel::FILE_HASH	Pandora analysis (INV0027378237.7z) - Malicious attachment (event ID 3395)
 # sha1 MISP Zeek Rules ----> 2023-08-30
+# sha1 MISP Zeek Rules ----> 2023-08-31
+fda9dfa7b41a05c6ae32f71f2b31a5d56d7eca9b	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+dc5841d8ed9ab8a5f3496f2258eafb1e0cedf4d3	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+cf22082532d4d6387ea1c9bc4dc5b255aa7a0290	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+c71d363472d927cf13674e95b79d4d38b3fed754	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+c637a9ce65083b21c834e7a68bd1bc51b412fa11	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+87df97d6214aecb5c395d84c3a35f359a90ad716	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+77b1864c489affe0ac2284135050373951b7987e	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+6505513ca06db10b17f6d4792c30a53733309231	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+5ce46efc6b28bd94955138833dc97916957dbde1	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+290e5cb4d32f97963bdc95ef2cc4b44a4de5666d	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+254b6bcbc5f60e30c596c263b8a4f393badbf1aa	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+1cca66cb1f4527eaffbcfeb2237922c93b332d64	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+191e16b564c66b3db67f837e1dc5eac98ff9b9ef	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+1903a3553bcb291579206b39e7818c77e2c07054	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+10b621c5e07648bd7a7391e569aa62a510be82f4	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
+0ea36676bd7169bcbf432f721c4edb5fde0a46a9	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
