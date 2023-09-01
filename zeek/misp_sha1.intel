@@ -37,3 +37,4 @@ c637a9ce65083b21c834e7a68bd1bc51b412fa11	Intel::FILE_HASH	Diving Deep into UNC48
 10b621c5e07648bd7a7391e569aa62a510be82f4	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
 0ea36676bd7169bcbf432f721c4edb5fde0a46a9	Intel::FILE_HASH	Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868) (event ID 3401)
 # sha1 MISP Zeek Rules ----> 2023-09-01
+# sha1 MISP Zeek Rules ----> 2023-09-02

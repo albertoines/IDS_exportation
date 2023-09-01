@@ -28,3 +28,4 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3401 [] Outgoing HTTP
 alert dns any any -> any any (msg: "MISP e3401 [] Hostname mx01.bestfindthetruth.com"; dns.query; content:"mx01.bestfindthetruth.com"; nocase; pcre: "/(^|[^A-Za-z0-9-\.])mx01\.bestfindthetruth\.com$/i";  classtype:trojan-activity; sid:275517541; rev:1; priority:2; reference:url,http://192.168.153.4/events/view/3401;) 
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3401 [] Outgoing HTTP Hostname mx01.bestfindthetruth.com"; flow:to_server,established; http.header; content: "Host|3a| mx01.bestfindthetruth.com"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])mx01\.bestfindthetruth\.com[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:275517542; rev:1; priority:2; reference:url,http://192.168.153.4/events/view/3401;) 
 # hostname MISP Suricata Rules ----> 2023-09-01
+# hostname MISP Suricata Rules ----> 2023-09-02
