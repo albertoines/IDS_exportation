@@ -448,3 +448,7 @@ storage.webfiledata.com	Intel::DOMAIN	ThreatFox IOCs for 2023-09-01 (event ID 34
 webfiledata.com	Intel::DOMAIN	ThreatFox IOCs for 2023-09-01 (event ID 3408)
 stats-best.site	Intel::DOMAIN	ThreatFox IOCs for 2023-09-01 (event ID 3408)
 ewkekezmwzfevwvwvvmmmmmmwfwf.site	Intel::DOMAIN	ThreatFox IOCs for 2023-09-01 (event ID 3408)
+# domain MISP Zeek Rules ----> 2023-09-04
+ns3.10010.buzz	Intel::DOMAIN	ThreatFox IOCs for 2023-09-02 (event ID 3410)
+ns4.10010.buzz	Intel::DOMAIN	ThreatFox IOCs for 2023-09-02 (event ID 3410)
+cannabishang.com	Intel::DOMAIN	ThreatFox IOCs for 2023-09-02 (event ID 3410)
