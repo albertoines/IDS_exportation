@@ -33,3 +33,5 @@ mx01.bestfindthetruth.com	Intel::DOMAIN	Diving Deep into UNC4841 Operations Foll
 # hostname MISP Zeek Rules ----> 2023-09-09
 # hostname MISP Zeek Rules ----> 2023-09-10
 # hostname MISP Zeek Rules ----> 2023-09-11
+# hostname MISP Zeek Rules ----> 2023-09-12
+sg.telegrnm.org	Intel::DOMAIN	Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users (event ID 3429)
