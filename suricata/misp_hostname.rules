@@ -42,3 +42,4 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3401 [] Outgoing HTTP
 alert dns any any -> any any (msg: "MISP e3429 [] Hostname sg.telegrnm.org"; dns.query; content:"sg.telegrnm.org"; nocase; pcre: "/(^|[^A-Za-z0-9-\.])sg\.telegrnm\.org$/i";  classtype:trojan-activity; sid:276908401; rev:1; priority:3; reference:url,http://192.168.153.4/events/view/3429;) 
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3429 [] Outgoing HTTP Hostname sg.telegrnm.org"; flow:to_server,established; http.header; content: "Host|3a| sg.telegrnm.org"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])sg\.telegrnm\.org[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:276908402; rev:1; priority:3; reference:url,http://192.168.153.4/events/view/3429;) 
 # hostname MISP Suricata Rules ----> 2023-09-13
+# hostname MISP Suricata Rules ----> 2023-09-14
