@@ -55,3 +55,4 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3429 [] Outgoing HTTP
 # hostname MISP Suricata Rules ----> 2023-09-24
 # hostname MISP Suricata Rules ----> 2023-09-25
 # hostname MISP Suricata Rules ----> 2023-09-26
+# hostname MISP Suricata Rules ----> 2023-09-27
