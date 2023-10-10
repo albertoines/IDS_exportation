@@ -11334,3 +11334,9 @@ alert ip $HOME_NET any -> 116.203.38.85 any (msg: "MISP e2876 [] Outgoing To IP:
 alert ip $HOME_NET any -> 116.110.81.120 any (msg: "MISP e2876 [] Outgoing To IP: 116.110.81.120";   classtype:trojan-activity; sid:281142661; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
 alert ip $HOME_NET any -> 111.255.216.19 any (msg: "MISP e2876 [] Outgoing To IP: 111.255.216.19";   classtype:trojan-activity; sid:281142681; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
 alert ip $HOME_NET any -> 113.124.93.130 any (msg: "MISP e2876 [] Outgoing To IP: 113.124.93.130";   classtype:trojan-activity; sid:281142701; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+# ip-dst MISP Suricata Rules ----> 2023-10-11
+alert ip $HOME_NET any -> 37.229.1.184 any (msg: "MISP e2876 [] Outgoing To IP: 37.229.1.184";   classtype:trojan-activity; sid:281271751; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 14.97.130.54 any (msg: "MISP e2876 [] Outgoing To IP: 14.97.130.54";   classtype:trojan-activity; sid:281271791; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 114.27.28.94 any (msg: "MISP e2876 [] Outgoing To IP: 114.27.28.94";   classtype:trojan-activity; sid:281271821; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 170.210.155.249 any (msg: "MISP e2876 [] Outgoing To IP: 170.210.155.249";   classtype:trojan-activity; sid:281271871; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 188.166.209.131 any (msg: "MISP e2876 [] Outgoing To IP: 188.166.209.131";   classtype:trojan-activity; sid:281271891; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
