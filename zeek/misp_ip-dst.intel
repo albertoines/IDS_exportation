@@ -10975,3 +10975,7 @@
 45.90.123.194	Intel::ADDR	AA23-250A: Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475 (event ID 3489)
 47.90.240.218	Intel::ADDR	AA23-250A: Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475 (event ID 3489)
 45.77.121.232	Intel::ADDR	AA23-250A: Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475 (event ID 3489)
+# ip-dst MISP Zeek Rules ----> 2023-10-13
+95.24.6.12	Intel::ADDR	ip-block-list - snort.org feed (event ID 2876)
+181.1.24.76	Intel::ADDR	ip-block-list - snort.org feed (event ID 2876)
+82.131.226.159	Intel::ADDR	ip-block-list - snort.org feed (event ID 2876)
