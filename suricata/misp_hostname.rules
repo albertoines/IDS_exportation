@@ -278,3 +278,4 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e1295 [] Outgoing HTTP
 alert dns any any -> any any (msg: "MISP e1295 [] Hostname funjose.org.gt"; dns.query; content:"funjose.org.gt"; nocase; pcre: "/(^|[^A-Za-z0-9-\.])funjose\.org\.gt$/i";  classtype:trojan-activity; sid:281413001; rev:1; priority:1; reference:url,http://192.168.153.4/events/view/1295;) 
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e1295 [] Outgoing HTTP Hostname funjose.org.gt"; flow:to_server,established; http.header; content: "Host|3a| funjose.org.gt"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])funjose\.org\.gt[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:281413002; rev:1; priority:1; reference:url,http://192.168.153.4/events/view/1295;) 
 # hostname MISP Suricata Rules ----> 2023-10-13
+# hostname MISP Suricata Rules ----> 2023-10-14
