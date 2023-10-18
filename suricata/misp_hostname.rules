@@ -287,3 +287,4 @@ alert dns any any -> any any (msg: "MISP e3498 [] Hostname www.githubdd.workers.
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3498 [] Outgoing HTTP Hostname www.githubdd.workers.dev"; flow:to_server,established; http.header; content: "Host|3a| www.githubdd.workers.dev"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])www\.githubdd\.workers\.dev[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:281890362; rev:1; priority:2; reference:url,http://192.168.153.4/events/view/3498;) 
 # hostname MISP Suricata Rules ----> 2023-10-17
 # hostname MISP Suricata Rules ----> 2023-10-18
+# hostname MISP Suricata Rules ----> 2023-10-19
