@@ -11445,3 +11445,10 @@ alert ip $HOME_NET any -> 49.72.187.23 any (msg: "MISP e2876 [] Outgoing To IP: 
 alert ip $HOME_NET any -> 202.153.47.226 any (msg: "MISP e2876 [] Outgoing To IP: 202.153.47.226";   classtype:trojan-activity; sid:282855281; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
 alert ip $HOME_NET any -> 114.105.236.160 any (msg: "MISP e2876 [] Outgoing To IP: 114.105.236.160";   classtype:trojan-activity; sid:282855291; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
 alert ip $HOME_NET any -> 89.102.90.69 any (msg: "MISP e2876 [] Outgoing To IP: 89.102.90.69";   classtype:trojan-activity; sid:282855301; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+# ip-dst MISP Suricata Rules ----> 2023-10-25
+alert ip $HOME_NET any -> 91.109.190.8 any (msg: "MISP e2876 [] Outgoing To IP: 91.109.190.8";   classtype:trojan-activity; sid:282941851; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 91.109.180.12 any (msg: "MISP e2876 [] Outgoing To IP: 91.109.180.12";   classtype:trojan-activity; sid:282941861; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 58.8.143.76 any (msg: "MISP e2876 [] Outgoing To IP: 58.8.143.76";   classtype:trojan-activity; sid:282941871; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 114.96.68.235 any (msg: "MISP e2876 [] Outgoing To IP: 114.96.68.235";   classtype:trojan-activity; sid:282941881; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 103.10.227.157 any (msg: "MISP e2876 [] Outgoing To IP: 103.10.227.157";   classtype:trojan-activity; sid:282941891; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
+alert ip $HOME_NET any -> 192.195.80.10 any (msg: "MISP e2876 [] Outgoing To IP: 192.195.80.10";   classtype:trojan-activity; sid:282941901; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
