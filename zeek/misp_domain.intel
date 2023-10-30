@@ -20817,3 +20817,5 @@ havoc.riggcorp.com	Intel::DOMAIN	ThreatFox IOCs for 2023-10-28 (event ID 3528)
 en.voiceaipro.com	Intel::DOMAIN	ThreatFox IOCs for 2023-10-28 (event ID 3528)
 en.voice-ai.store	Intel::DOMAIN	ThreatFox IOCs for 2023-10-28 (event ID 3528)
 voice.2005thavenue.com	Intel::DOMAIN	ThreatFox IOCs for 2023-10-28 (event ID 3528)
+# domain MISP Zeek Rules ----> 2023-10-31
+service-cia1auek-1314775489.gz.apigw.tencentcs.com	Intel::DOMAIN	ThreatFox IOCs for 2023-10-29 (event ID 3530)
