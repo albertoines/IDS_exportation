@@ -99,3 +99,5 @@ c637a9ce65083b21c834e7a68bd1bc51b412fa11	Intel::FILE_HASH	Diving Deep into UNC48
 # sha1 MISP Zeek Rules ----> 2023-10-31
 # sha1 MISP Zeek Rules ----> 2023-11-01
 # sha1 MISP Zeek Rules ----> 2023-11-02
+# sha1 MISP Zeek Rules ----> 2023-11-03
+24f6785ca2e82d1d1d61f4cb01d5e753f80445cf	Intel::FILE_HASH	Windows version of the Bibi Wiper by BiBiGun (event ID 3536)
