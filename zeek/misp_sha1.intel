@@ -101,3 +101,10 @@ c637a9ce65083b21c834e7a68bd1bc51b412fa11	Intel::FILE_HASH	Diving Deep into UNC48
 # sha1 MISP Zeek Rules ----> 2023-11-02
 # sha1 MISP Zeek Rules ----> 2023-11-03
 24f6785ca2e82d1d1d61f4cb01d5e753f80445cf	Intel::FILE_HASH	Windows version of the Bibi Wiper by BiBiGun (event ID 3536)
+# sha1 MISP Zeek Rules ----> 2023-11-04
+ab51f4b7d7180d459a58a9d1e13b1140ba201873	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
+7849a278fa962d6ea4aa51c0587494ad910c873a	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
+fe13fb3abf5ee184d87d49f60bb9932ceca24782	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
+3f13bc906d7d231720eac8b606515e09ae22e1d9	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
+c9372d98f1146f7c42fbcf84fa1b8a2ce0201fd5	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
+968419fdf5c8fda4d2ef5efd0fd7c8beb7a82d53	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
