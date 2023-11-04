@@ -108,3 +108,4 @@ fe13fb3abf5ee184d87d49f60bb9932ceca24782	Intel::FILE_HASH	ThreatFox IOCs for 202
 3f13bc906d7d231720eac8b606515e09ae22e1d9	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
 c9372d98f1146f7c42fbcf84fa1b8a2ce0201fd5	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
 968419fdf5c8fda4d2ef5efd0fd7c8beb7a82d53	Intel::FILE_HASH	ThreatFox IOCs for 2023-11-02 (event ID 3539)
+# sha1 MISP Zeek Rules ----> 2023-11-05
