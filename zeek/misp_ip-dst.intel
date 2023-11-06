@@ -11087,3 +11087,5 @@
 45.78.7.252	Intel::ADDR	ip-block-list - snort.org feed (event ID 2876)
 111.88.4.68	Intel::ADDR	ip-block-list - snort.org feed (event ID 2876)
 91.67.40.6	Intel::ADDR	ip-block-list - snort.org feed (event ID 2876)
+# ip-dst MISP Zeek Rules ----> 2023-11-07
+217.197.185.198	Intel::ADDR	ip-block-list - snort.org feed (event ID 2876)
