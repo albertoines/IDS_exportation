@@ -11544,3 +11544,4 @@ alert ip $HOME_NET any -> 91.67.40.6 any (msg: "MISP e2876 [] Outgoing To IP: 91
 alert ip $HOME_NET any -> 217.197.185.198 any (msg: "MISP e2876 [] Outgoing To IP: 217.197.185.198";   classtype:trojan-activity; sid:284856001; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/2876;) 
 # ip-dst MISP Suricata Rules ----> 2023-11-08
 
+# ip-dst MISP Suricata Rules ----> 2023-11-09
