@@ -11545,3 +11545,4 @@ alert ip $HOME_NET any -> 217.197.185.198 any (msg: "MISP e2876 [] Outgoing To I
 # ip-dst MISP Suricata Rules ----> 2023-11-08
 
 # ip-dst MISP Suricata Rules ----> 2023-11-09
+# ip-dst MISP Suricata Rules ----> 2023-11-10
