@@ -11100,3 +11100,18 @@
 # ip-dst MISP Zeek Rules ----> 2023-11-12
 # ip-dst MISP Zeek Rules ----> 2023-11-13
 # ip-dst MISP Zeek Rules ----> 2023-11-14
+# ip-dst MISP Zeek Rules ----> 2023-11-15
+45.89.106.147	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+145.239.54.169	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+176.124.32.84	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+185.180.223.48	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+91.235.234.81	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+205.147.101.170	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+45.128.232.143	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+91.235.234.251	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+46.8.198.196	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+156.241.86.2	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+63.79.171.112	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+217.57.80.18	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+70.62.153.174	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+185.44.81.147	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
