@@ -11115,3 +11115,9 @@
 217.57.80.18	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
 70.62.153.174	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
 185.44.81.147	Intel::ADDR	The attack against Danish critical infrastructure (event ID 3562)
+# ip-dst MISP Zeek Rules ----> 2023-11-16
+82.180.150.197	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
+176.119.195.113	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
+176.119.195.115	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
+185.220.101.58	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
+190.2.145.24	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
