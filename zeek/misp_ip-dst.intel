@@ -11121,3 +11121,4 @@
 176.119.195.115	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
 185.220.101.58	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
 190.2.145.24	Intel::ADDR	Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology (event ID 3565)
+# ip-dst MISP Zeek Rules ----> 2023-11-17
