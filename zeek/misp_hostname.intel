@@ -215,3 +215,4 @@ www.joshan.pro	Intel::DOMAIN	The attack against Danish critical infrastructure (
 # hostname MISP Zeek Rules ----> 2023-11-23
 185.122.204.197	Intel::DOMAIN	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
 194.38.22.53	Intel::DOMAIN	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
+# hostname MISP Zeek Rules ----> 2023-11-24

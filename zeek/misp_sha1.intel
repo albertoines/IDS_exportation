@@ -131,3 +131,4 @@ c9372d98f1146f7c42fbcf84fa1b8a2ce0201fd5	Intel::FILE_HASH	ThreatFox IOCs for 202
 38c56b5e1489092b80c9908f04379e5a16876f01	Intel::FILE_HASH	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
 ee458e526125d60cc1a387b4163376be8e9bc689	Intel::FILE_HASH	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
 b841db7fc24e59e60a9d7e158e3ef50236b605b4	Intel::FILE_HASH	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
+# sha1 MISP Zeek Rules ----> 2023-11-24

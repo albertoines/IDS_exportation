@@ -11133,3 +11133,4 @@
 17.248.195.64	Intel::ADDR	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
 17.248.195.71	Intel::ADDR	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
 17.253.83.197	Intel::ADDR	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
+# ip-dst MISP Zeek Rules ----> 2023-11-24
