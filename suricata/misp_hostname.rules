@@ -338,3 +338,4 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3581 [] Outgoing HTTP
 alert dns any any -> any any (msg: "MISP e3581 [] Hostname 194.38.22.53"; dns.query; content:"194.38.22.53"; nocase; pcre: "/(^|[^A-Za-z0-9-\.])194\.38\.22\.53$/i";  classtype:trojan-activity; sid:287495991; rev:1; priority:3; reference:url,http://192.168.153.4/events/view/3581;) 
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg: "MISP e3581 [] Outgoing HTTP Hostname 194.38.22.53"; flow:to_server,established; http.header; content: "Host|3a| 194.38.22.53"; fast_pattern; nocase; pcre: "/(^|[^A-Za-z0-9-\.])194\.38\.22\.53[^A-Za-z0-9-\.]/Hi"; tag:session,600,seconds; classtype:trojan-activity; sid:287495992; rev:1; priority:3; reference:url,http://192.168.153.4/events/view/3581;) 
 # hostname MISP Suricata Rules ----> 2023-11-24
+# hostname MISP Suricata Rules ----> 2023-11-25

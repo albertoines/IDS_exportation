@@ -132,3 +132,8 @@ c9372d98f1146f7c42fbcf84fa1b8a2ce0201fd5	Intel::FILE_HASH	ThreatFox IOCs for 202
 ee458e526125d60cc1a387b4163376be8e9bc689	Intel::FILE_HASH	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
 b841db7fc24e59e60a9d7e158e3ef50236b605b4	Intel::FILE_HASH	CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits (event ID 3581)
 # sha1 MISP Zeek Rules ----> 2023-11-24
+# sha1 MISP Zeek Rules ----> 2023-11-25
+3adf9a59743bc5d8399f67cab5eb2daf28b9b863	Intel::FILE_HASH	[NCSC-UK] Cyclops blink (event ID 1241)
+c59bc17659daca1b1ce65b6af077f86a648ad8a8	Intel::FILE_HASH	[NCSC-UK] Cyclops blink (event ID 1241)
+7d61c0dd0cd901221a9dff9df09bb90810754f10	Intel::FILE_HASH	[NCSC-UK] Cyclops blink (event ID 1241)
+438cd40caca70cafe5ca436b36ef7d3a6321e858	Intel::FILE_HASH	[NCSC-UK] Cyclops blink (event ID 1241)
