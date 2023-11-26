@@ -138,3 +138,4 @@ c59bc17659daca1b1ce65b6af077f86a648ad8a8	Intel::FILE_HASH	[NCSC-UK] Cyclops blin
 7d61c0dd0cd901221a9dff9df09bb90810754f10	Intel::FILE_HASH	[NCSC-UK] Cyclops blink (event ID 1241)
 438cd40caca70cafe5ca436b36ef7d3a6321e858	Intel::FILE_HASH	[NCSC-UK] Cyclops blink (event ID 1241)
 # sha1 MISP Zeek Rules ----> 2023-11-26
+# sha1 MISP Zeek Rules ----> 2023-11-27

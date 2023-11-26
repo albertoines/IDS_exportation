@@ -11637,3 +11637,4 @@ alert ip $HOME_NET any -> 80.15.113.188 any (msg: "MISP e1241 [] Outgoing To IP:
 alert ip $HOME_NET any -> 80.153.75.103 any (msg: "MISP e1241 [] Outgoing To IP: 80.153.75.103";   classtype:trojan-activity; sid:5202331; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/1241;) 
 alert ip $HOME_NET any -> 109.192.30.125 any (msg: "MISP e1241 [] Outgoing To IP: 109.192.30.125";   classtype:trojan-activity; sid:5202341; rev:1; priority:4; reference:url,http://192.168.153.4/events/view/1241;) 
 # ip-dst MISP Suricata Rules ----> 2023-11-26
+# ip-dst MISP Suricata Rules ----> 2023-11-27

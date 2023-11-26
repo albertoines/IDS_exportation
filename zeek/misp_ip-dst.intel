@@ -11183,3 +11183,4 @@
 80.153.75.103	Intel::ADDR	[NCSC-UK] Cyclops blink (event ID 1241)
 109.192.30.125	Intel::ADDR	[NCSC-UK] Cyclops blink (event ID 1241)
 # ip-dst MISP Zeek Rules ----> 2023-11-26
+# ip-dst MISP Zeek Rules ----> 2023-11-27
