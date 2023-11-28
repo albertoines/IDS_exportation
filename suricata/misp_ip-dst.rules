@@ -11639,3 +11639,4 @@ alert ip $HOME_NET any -> 109.192.30.125 any (msg: "MISP e1241 [] Outgoing To IP
 # ip-dst MISP Suricata Rules ----> 2023-11-26
 # ip-dst MISP Suricata Rules ----> 2023-11-27
 # ip-dst MISP Suricata Rules ----> 2023-11-28
+# ip-dst MISP Suricata Rules ----> 2023-11-29
