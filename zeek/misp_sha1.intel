@@ -147,3 +147,5 @@ c59bc17659daca1b1ce65b6af077f86a648ad8a8	Intel::FILE_HASH	[NCSC-UK] Cyclops blin
 # sha1 MISP Zeek Rules ----> 2023-12-03
 # sha1 MISP Zeek Rules ----> 2023-12-04
 # sha1 MISP Zeek Rules ----> 2023-12-05
+# sha1 MISP Zeek Rules ----> 2023-12-06
+66ae21571faee1e258549078144325dc9dd60303	Intel::FILE_HASH	AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities (event ID 3608)

@@ -11192,3 +11192,6 @@
 # ip-dst MISP Zeek Rules ----> 2023-12-03
 # ip-dst MISP Zeek Rules ----> 2023-12-04
 # ip-dst MISP Zeek Rules ----> 2023-12-05
+# ip-dst MISP Zeek Rules ----> 2023-12-06
+178.162.227.180	Intel::ADDR	AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities (event ID 3608)
+185.162.235.206	Intel::ADDR	AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities (event ID 3608)
