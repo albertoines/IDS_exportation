@@ -149,3 +149,10 @@ c59bc17659daca1b1ce65b6af077f86a648ad8a8	Intel::FILE_HASH	[NCSC-UK] Cyclops blin
 # sha1 MISP Zeek Rules ----> 2023-12-05
 # sha1 MISP Zeek Rules ----> 2023-12-06
 66ae21571faee1e258549078144325dc9dd60303	Intel::FILE_HASH	AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities (event ID 3608)
+# sha1 MISP Zeek Rules ----> 2023-12-07
+ec401ae8ddebef4038cedb65cc0d5ba6c1fdef28	Intel::FILE_HASH	MAR-10478915-1.v1 Citrix Bleed (event ID 3612)
+364ef2431a8614b4ef9240afa00cd12bfba3119b	Intel::FILE_HASH	MAR-10478915-1.v1 Citrix Bleed (event ID 3612)
+8acaf9908229871ab33033df7b6a328ec1db56d5	Intel::FILE_HASH	MAR-10478915-1.v1 Citrix Bleed (event ID 3612)
+b8e74921d7923c808a0423e6e46807c4f0699b6e	Intel::FILE_HASH	MAR-10478915-1.v1 Citrix Bleed (event ID 3612)
+be332b6e2e2ed9e1e57d8aafa0c00aa77d4b8656	Intel::FILE_HASH	AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers (event ID 3613)
+b6818d2d5cbd902ce23461f24fc47e24937250e6	Intel::FILE_HASH	AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers (event ID 3613)
