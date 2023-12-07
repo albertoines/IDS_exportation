@@ -11197,3 +11197,4 @@
 185.162.235.206	Intel::ADDR	AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities (event ID 3608)
 # ip-dst MISP Zeek Rules ----> 2023-12-07
 125.227.50.97	Intel::ADDR	AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers (event ID 3613)
+# ip-dst MISP Zeek Rules ----> 2023-12-08

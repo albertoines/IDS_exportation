@@ -156,3 +156,4 @@ ec401ae8ddebef4038cedb65cc0d5ba6c1fdef28	Intel::FILE_HASH	MAR-10478915-1.v1 Citr
 b8e74921d7923c808a0423e6e46807c4f0699b6e	Intel::FILE_HASH	MAR-10478915-1.v1 Citrix Bleed (event ID 3612)
 be332b6e2e2ed9e1e57d8aafa0c00aa77d4b8656	Intel::FILE_HASH	AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers (event ID 3613)
 b6818d2d5cbd902ce23461f24fc47e24937250e6	Intel::FILE_HASH	AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers (event ID 3613)
+# sha1 MISP Zeek Rules ----> 2023-12-08

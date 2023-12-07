@@ -23318,3 +23318,10 @@ ec2-52-91-116-180.compute-1.amazonaws.com	Intel::DOMAIN	ThreatFox IOCs for 2023-
 v55728.php-friends.de	Intel::DOMAIN	ThreatFox IOCs for 2023-12-05 (event ID 3614)
 cotinga-slaved.vpsrdns.web-hosting.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-05 (event ID 3614)
 www.guoyashuai.top	Intel::DOMAIN	ThreatFox IOCs for 2023-12-05 (event ID 3614)
+# domain MISP Zeek Rules ----> 2023-12-08
+remccoss2023.duckdns.org	Intel::DOMAIN	ThreatFox IOCs for 2023-12-06 (event ID 3616)
+dcqapz.shop	Intel::DOMAIN	ThreatFox IOCs for 2023-12-06 (event ID 3616)
+chatnoir.life	Intel::DOMAIN	ThreatFox IOCs for 2023-12-06 (event ID 3616)
+swf.help.googli.info	Intel::DOMAIN	ThreatFox IOCs for 2023-12-06 (event ID 3616)
+login.help.googli.info	Intel::DOMAIN	ThreatFox IOCs for 2023-12-06 (event ID 3616)
+dashboard.help.googli.info	Intel::DOMAIN	ThreatFox IOCs for 2023-12-06 (event ID 3616)
