@@ -158,3 +158,4 @@ be332b6e2e2ed9e1e57d8aafa0c00aa77d4b8656	Intel::FILE_HASH	AA23-339A Threat Actor
 b6818d2d5cbd902ce23461f24fc47e24937250e6	Intel::FILE_HASH	AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers (event ID 3613)
 # sha1 MISP Zeek Rules ----> 2023-12-08
 # sha1 MISP Zeek Rules ----> 2023-12-09
+# sha1 MISP Zeek Rules ----> 2023-12-10

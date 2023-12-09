@@ -11199,3 +11199,4 @@
 125.227.50.97	Intel::ADDR	AA23-339A Threat Actors Exploit Adobe ColdFusion CVE- 2023-26360 for Initial Access to Government Servers (event ID 3613)
 # ip-dst MISP Zeek Rules ----> 2023-12-08
 # ip-dst MISP Zeek Rules ----> 2023-12-09
+# ip-dst MISP Zeek Rules ----> 2023-12-10
