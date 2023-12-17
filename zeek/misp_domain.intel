@@ -23844,3 +23844,7 @@ margesommers.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-15 (event ID 3635)
 sync.webappclick.net	Intel::DOMAIN	ThreatFox IOCs for 2023-12-15 (event ID 3635)
 ping.cachespace.net	Intel::DOMAIN	ThreatFox IOCs for 2023-12-15 (event ID 3635)
 hahnevohjoo.spenserfitolife.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-15 (event ID 3635)
+# domain MISP Zeek Rules ----> 2023-12-18
+catsndogz.org	Intel::DOMAIN	ThreatFox IOCs for 2023-12-16 (event ID 3637)
+botnet.atakehosting.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-16 (event ID 3637)
+microsoftsyst3m.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-16 (event ID 3637)
