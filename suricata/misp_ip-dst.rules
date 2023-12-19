@@ -11668,3 +11668,4 @@ alert ip $HOME_NET any -> 124.152.41.85 any (msg: "MISP e3631 [] Outgoing To IP:
 # ip-dst MISP Suricata Rules ----> 2023-12-17
 # ip-dst MISP Suricata Rules ----> 2023-12-18
 # ip-dst MISP Suricata Rules ----> 2023-12-19
+# ip-dst MISP Suricata Rules ----> 2023-12-20
