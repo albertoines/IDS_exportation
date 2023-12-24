@@ -11221,3 +11221,4 @@
 5.181.159.29	Intel::ADDR	OSINT -  BattleRoyal, DarkGate Cluster Spreads via Email and Fake Browser Updates (event ID 3647)
 79.110.62.96	Intel::ADDR	OSINT -  BattleRoyal, DarkGate Cluster Spreads via Email and Fake Browser Updates (event ID 3647)
 # ip-dst MISP Zeek Rules ----> 2023-12-24
+# ip-dst MISP Zeek Rules ----> 2023-12-25

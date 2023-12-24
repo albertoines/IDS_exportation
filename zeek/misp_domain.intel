@@ -25516,3 +25516,13 @@ windows.dns-supports.online	Intel::DOMAIN	ThreatFox IOCs for 2023-12-22 (event I
 annualraises2023.zip	Intel::DOMAIN	ThreatFox IOCs for 2023-12-22 (event ID 3650)
 globron.duckdns.org	Intel::DOMAIN	ThreatFox IOCs for 2023-12-22 (event ID 3650)
 conectmeto.net	Intel::DOMAIN	ThreatFox IOCs for 2023-12-22 (event ID 3650)
+# domain MISP Zeek Rules ----> 2023-12-25
+unougn.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+conitreid.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+lindacolor.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+service-azqy7lup-1303896379.sh.tencentapigw.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+workstation.homeip.net	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+ns1.c1oudflare.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+ns2.c1oudflare.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+ns3.c1oudflare.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
+secure.biiclick.com	Intel::DOMAIN	ThreatFox IOCs for 2023-12-23 (event ID 3652)
