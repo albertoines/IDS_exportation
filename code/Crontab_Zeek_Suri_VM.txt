@@ -1,0 +1,10 @@
+# Clonado del repositorio de Github con ficheros de reglas
+0 1 * * * sudo bash /root/gitids.sh
+
+# Copiado de los ficheros de reglas a directorio de reglas de suricata y zeek
+10 1 * * * sudo cp -r /root/IDS_exportation/suricata/* /etc/suricata/rules/
+11 1 * * * sudo cp -r /root/IDS_exportation/zeek/* /opt/zeek/share/zeek/site/misp_zeek/
+
+# Arranque de suricata con las nuevas reglas
+15 1 * * * sudo systemctl restart suricata
+16 1 * * * sudo zeekctl deploy

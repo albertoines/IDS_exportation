@@ -1,0 +1,14 @@
+# Rotación IOCs
+1 0 1 1,3,5,7,9,11 * sudo python3 /root/scripts/IOC_rotation.py
+
+# Importacion de nuevos IOCs a la plataforma MISP
+20 0 * * * sudo python3 /root/scripts/fetch_feeds_2.py
+
+# Exportacion de los IOCs como archivos de reglas
+30 0 * * * sudo python3 /root/scripts/export_IOCs.py
+
+# Deteccion e eliminacion de lineas de reglas duplicadas
+35 0 * * * sudo python3 /root/scripts/duplicate_lines.py
+
+# Subida de archivos a repositorio privado de Github
+40 0 * * * sudo bash /root/IDS_exportation/git.sh

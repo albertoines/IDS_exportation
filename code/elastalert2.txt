@@ -1,0 +1,16 @@
+name: Filebeat Alert
+type: any
+index: filebeat-*
+filter:
+  - query:
+      query_string:
+        query: "event_type:alert"
+alert:
+  - "email"
+email:
+  - "795801@unizar.es"
+smtp_host: "smtp.example.com"
+smtp_port: 25
+smtp_ssl: False
+from_addr: ""
+smtp_subject: "Alerta de Suricata"
