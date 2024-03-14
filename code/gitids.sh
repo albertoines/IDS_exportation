@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Clone repository from Github to Suricata/Zeek VM o Raspberry
 # Configura tus variables
 github_token=""
 repository_owner="albertoines"
