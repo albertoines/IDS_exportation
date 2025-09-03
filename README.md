@@ -1,10 +1,6 @@
 # Centralized IOC Management System for NIDS
 
 <p align="center">
-  <img src="https://i.imgur.com/gK9vHh4.png" alt="Project Architecture Diagram" width="800"/>
-</p>
-
-<p align="center">
   <strong>Final Degree Project | University of Zaragoza</strong>
   <br />
   An automated system for detecting cyber threats on a network through centralized management of Indicators of Compromise (IOCs) and their export to Network Intrusion Detection Systems (NIDS).
