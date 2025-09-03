@@ -73,12 +73,11 @@ Example of a malicious domain alert detected by Zeek (intel.log):
 {"ts":1693251968.906411, ..., "seen.indicator":"1105181.com", "seen.indicator_type":"Intel::DOMAIN", "seen.where":"DNS::IN_REQUEST", ...}
 ```
 Dashboards in Kibana
-Here you can insert screenshots of your Kibana dashboards.
-Top Suricata Alerts:
+<!--Top Suricata Alerts:
 <!-- ![Top Suricata Alerts](path/to/suricata_alerts_screenshot.png) -->
-Network Traffic Detected by Zeek:
+<!--Network Traffic Detected by Zeek:
 <!-- ![Zeek Traffic](path/to/zeek_traffic_screenshot.png) -->
-Network Traffic Direction:
+<!--Network Traffic Direction:
 <!-- ![Traffic Direction](path/to/traffic_direction_screenshot.png) -->
 🔧 Installation and Setup
 The complete and detailed guide for installation and setup of each component can be found in the Appendices of the full Thesis Document:
@@ -92,6 +91,7 @@ Implement stricter IOC rotation policies (based on score) to improve efficiency.
 Use IPS (Intrusion Prevention System) instead of NIDS to actively block detected threats.
 Improve the security of rule transfer by exploring other protocols.
 Create custom Kibana dashboards for deeper and more tailored analysis.
+
 Author: Alberto Inés Medina
 Supervisor: Álvaro Alesanco Iglesias
 Degree: BSc in Telecommunication Technologies and Services Engineering
