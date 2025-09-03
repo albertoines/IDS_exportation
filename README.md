@@ -68,11 +68,11 @@ _Example of a malicious IP alert detected by **Suricata** (`fast.log`):_
 ```bash
 08/28/2023-21:48:18.424819 [**] [1:275255421:1] MISP e2876 [] Outgoing To IP: 117.213.40.201 [**] [Classification: A Network Trojan was detected] [Priority: 4] {TCP} 192.168.153.2:52202 -> 117.213.40.201:80
 ```
-Example of a malicious domain alert detected by Zeek (intel.log):
+Example of a malicious domain alert detected by Zeek (`intel.log`):
 ```JSON
 {"ts":1693251968.906411, ..., "seen.indicator":"1105181.com", "seen.indicator_type":"Intel::DOMAIN", "seen.where":"DNS::IN_REQUEST", ...}
 ```
-Dashboards in Kibana
+<!--Dashboards in Kibana
 <!--Top Suricata Alerts:
 <!-- ![Top Suricata Alerts](path/to/suricata_alerts_screenshot.png) -->
 <!--Network Traffic Detected by Zeek:
