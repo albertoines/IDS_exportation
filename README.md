@@ -85,6 +85,7 @@ Appendix E: MISP Installation.
 Appendix F: Suricata and Zeek Installation.
 Appendix G: Elastic Stack Installation and Configuration.
 The automation scripts used in this project are available in this repository.
+
 🔮 Future Work
 Integrate more IOC feeds to enrich the MISP database.
 Implement stricter IOC rotation policies (based on score) to improve efficiency.
