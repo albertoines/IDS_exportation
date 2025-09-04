@@ -79,14 +79,15 @@ Example of a malicious domain alert detected by Zeek (`intel.log`):
 <!-- ![Zeek Traffic](path/to/zeek_traffic_screenshot.png) -->
 <!--Network Traffic Direction:
 <!-- ![Traffic Direction](path/to/traffic_direction_screenshot.png) -->
-🔧 Installation and Setup
+
+##🔧 Installation and Setup
 The complete and detailed guide for installation and setup of each component can be found in the Appendices of the full Thesis Document:
 Appendix E: MISP Installation.
 Appendix F: Suricata and Zeek Installation.
 Appendix G: Elastic Stack Installation and Configuration.
 The automation scripts used in this project are available in this repository.
 
-🔮 Future Work
+##🔮 Future Work
 Integrate more IOC feeds to enrich the MISP database.
 Implement stricter IOC rotation policies (based on score) to improve efficiency.
 Use IPS (Intrusion Prevention System) instead of NIDS to actively block detected threats.
